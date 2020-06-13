@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package genproto;
+option go_package = "genproto/message";
+
+message Message {
+    uint64 id = 1;
+    string name = 2;
+    string time = 3;
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80d7d42f-a090-4d64-b8a1-14ae9f97fa72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1ao0tEKyPYFckgYXllsmkYsg6Gm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@644d0708" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="58" width="800" height="677" key="#Go_Modules_(vgo)" timestamp="1591982056457">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="58" width="800" height="677" key="#Go_Modules_(vgo)/0.27.1366.741@0.27.1366.741" timestamp="1591982056457" />
+    <state x="278" y="58" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591983451822">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="58" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1591983451822" />
+    <state x="444" y="154" key="FileChooserDialogImpl" timestamp="1587561780585">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="444" y="154" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1587561780585" />
+    <state x="461" y="315" key="Github.CreateGistDialog" timestamp="1592024574458">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="315" key="Github.CreateGistDialog/0.27.1366.741@0.27.1366.741" timestamp="1592024574458" />
+    <state width="906" height="177" key="GridCell.Tab.0.bottom" timestamp="1591986749678">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1591986749678" />
+    <state width="906" height="177" key="GridCell.Tab.0.center" timestamp="1591986749676">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1591986749676" />
+    <state width="906" height="177" key="GridCell.Tab.0.left" timestamp="1591986749675">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1591986749675" />
+    <state width="906" height="177" key="GridCell.Tab.0.right" timestamp="1591986749677">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1591986749677" />
+  </component>
+</project>

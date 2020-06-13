@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package genproto;
+option go_package = "genproto/message";
+
+import "message.proto";
+import "google/protobuf/empty.proto";
+
+service MessageService {
+    rpc Create(Message) returns (Message) {}
+    rpc Update(Message) returns (Message) {}
+    rpc Delete(DeleteRequest) returns (google.protobuf.Empty) {}
+}
+
+message DeleteRequest {
+    uint64 id = 1;
+}
